@@ -1,0 +1,194 @@
+{
+  "products":[
+    {
+      "id":1,
+      "name":"HP2",
+      "Title":"HP",
+      "price":"240",
+      "imageUrl":"https://www.wizardingworld.com/assets/_next/static/images/rectangle-2-312-1eedfa1d99c74d6a71349129df392213.png"
+
+    },
+    {
+      "id":2,
+      "name":"HP3",
+      "Title":"HP",
+      "price":"440",
+
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51vbcZM3WyL._SX329_BO1,204,203,200_.jpg"
+    },
+    {
+      "id":3,
+      "name":"HP4",
+      "Title":"HP",
+      "price":"640",
+      "imageUrl":"https://www.wizardingworld.com/assets/_next/static/images/rectangle-4-312-7f3f47d70b4dd03e8503aaaf2f79bd47.png"
+
+    },
+    {
+      "id":4,
+      "name":"HP5",
+      "Title":"HP",
+      "price":"432",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/91TpLHDnuFL.jpg"
+
+    },
+    {
+      "id":5,
+      "name":"HP6",
+      "Title":"HP",
+      "price":"432",
+      "imageUrl":"https://rukminim1.flixcart.com/image/312/312/jpodaq80/book/5/4/2/harry-potter-and-the-half-blood-prince-original-imafbumtpgjtbmgp.jpeg?q=70"
+    },
+    {
+      "id":6,
+      "name":"HP7",
+      "Title":"HP",
+      "price":"532",
+      "imageUrl":"https://media.harrypotterfanzone.com/deathly-hallows-us-childrens-edition.jpg"
+
+    },
+    {
+      "id":7,
+      "name":"HP1",
+      "Title":"HP",
+      "price":"320",
+      "imageUrl":"https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2016%2F09%2Fhpsorcstone.jpg"
+
+    },
+    {
+      "id":8,
+      "name":"Rot & Run",
+      "Title":"HP",
+      "price":"123",
+      "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSToKilHX1NGmnMGwQLGeB0i3P2jriKvwpELi6JAW-G02EOKqULEL_hs1UOCOY9zducO1k&usqp=CAU"
+
+    },{
+      "id":9,
+      "name":"slayer",
+      "Title":"HP",
+      "price":"1234",
+      "imageUrl":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528468297l/34723130._SY475_.jpg"
+
+
+    },
+    {
+      "id":10,
+      "name":"Roomies",
+      "Title":"HP",
+      "price":"339",
+      "imageUrl":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492478146l/34466910._SY475_.jpg"
+    },
+    {
+      "id":11,
+      "name":"Curuk",
+      "Title":"HP",
+      "price":"1211",
+      "imageUrl":"https://bookcart.azurewebsites.net/Upload/cbf832c1-cd01-47b3-93fa-62995a7dca1118799023.jpg"
+    },
+    {
+      "id":12,
+      "name":"A Princess in Theory",
+      "Title":"HP",
+      "price":"545",
+      "imageUrl":"https://images-eu.ssl-images-amazon.com/images/I/51pbJbWhdEL._AC_UL600_SR378,600_.jpg"
+    },
+    {
+      "id":13,
+      "name":"Robbie",
+      "Title":"HP",
+      "price":"345",
+      "imageUrl":"https://res.cloudinary.com/bookbub/image/upload/t_ci_ar_6:9_scaled,f_auto,q_auto,dpr_2,c_scale,w_405/v1521565292/pro_pbid_4117615.jpg"
+
+    },
+    {
+      "id":14,
+      "name":"Dr.Strange Beard",
+      "Title":"HP",
+      "price":"312",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/51gVoL6nDJL._SX331_BO1,204,203,200_.jpg"
+    },
+    {
+      "id":14,
+      "name":"The Simple Wild",
+      "Title":"HP",
+      "price":"111",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/41v87qqM04L._SX319_BO1,204,203,200_.jpg"
+    },
+    {
+      "id":15,
+      "name":"Marriage of inconvenie",
+      "Title":"HP",
+      "price":"345",
+      "imageUrl":"https://harlequinjunkie.com/wp-content/uploads/2018/03/marriage-of-inconvenience.jpg"
+    },
+    
+    {
+      "id":16,
+      "name":" The Hookup",
+      "Title":"HP",
+      "price":"434",
+      "imageUrl":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511060888l/36408499._SY475_.jpg"
+    },
+    
+    {
+      "id":17,
+      "name":"The Birthday girl",
+      "Title":"HP",
+      "price":"441",
+      "imageUrl":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523361696l/39555142._SY475_.jpg"
+    },
+    {
+      "id":18,
+      "name":"Red Rising",
+      "Title":"HP",
+      "price":"511",
+      "imageUrl":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354651l/15839976.jpg"
+    },
+    
+    {
+      "id":19,
+      "name":"Before We were Yours",
+      "Title":"HP",
+      "price":"124",
+      "imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWhYqQtOuUZabwa5P3K7Co1geVxRFo9LT_1zyu7VlPjrhAp5D4nT60HWcvWYX9YdvxMt8&usqp=CAU"
+    },
+    
+    {
+      "id":20,
+      "name":"The Dance with Dragan",
+      "Title":"HP",
+      "price":"412",
+      "imageUrl":"https://images-na.ssl-images-amazon.com/images/I/511QzLSSvEL._SX314_BO1,204,203,200_.jpg"
+    },
+    {
+      "id":21,
+      "name":"The Hate You Give",
+      "Title":"HP",
+      "price":"122",
+      "imageUrl":"https://m.media-amazon.com/images/I/41A2UunZ0aL.jpg"
+    },
+    {
+      "id":22,
+      "name":"The Help",
+      "Title":"HP",
+      "price":"124",
+      "imageUrl":"https://bookcart.azurewebsites.net/Upload/921ff624-bcdb-4b48-8e5b-c3f34078bd11q3.jpg"
+    }],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
